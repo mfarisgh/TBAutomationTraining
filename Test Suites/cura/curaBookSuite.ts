@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>curaBookSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>056be19d-1759-459d-9eda-1173311c42a9</testSuiteGuid>
+   <testCaseLink>
+      <guid>9976b15b-90cf-4755-9116-031ef303296b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/curaParameterizedDDT/CuraParameterizedDDTDemo</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>cf4263c6-6aec-4de7-b4b2-ce9679a3c3d4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/cura/facility (1)</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b0e666ae-9064-4cc6-921e-32879e36f148</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/cura/program (1)</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>a804ef04-fae2-4bad-abee-69258e328c62</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/cura/curadata</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>471bb5f0-aba1-421b-b28a-e16c21c7e30e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>539ca648-de72-441a-8f43-3c183edcd5fa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>cf4263c6-6aec-4de7-b4b2-ce9679a3c3d4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>facility</value>
+         <variableId>7378728f-9325-403f-937b-241f344dfc67</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b0e666ae-9064-4cc6-921e-32879e36f148</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>program</value>
+         <variableId>4e3c176c-72cd-4dde-a44f-218c08146bd4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a804ef04-fae2-4bad-abee-69258e328c62</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>date</value>
+         <variableId>1bf1f345-f5e7-4724-a505-9bcb316ec152</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a804ef04-fae2-4bad-abee-69258e328c62</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>comment</value>
+         <variableId>76e5aed8-5b2e-4c99-b92e-ee4416cabb53</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4Checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df99776e-af26-441e-87ee-e18b24eb0afe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>50e9b4df-cae3-48e9-ac02-d861c404865f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'eff_demo_name'</defaultValue>
+      <description></description>
+      <id>50e9b4df-cae3-48e9-ac02-d861c404865f</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

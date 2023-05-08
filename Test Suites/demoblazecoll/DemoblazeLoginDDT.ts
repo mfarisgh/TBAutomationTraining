@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DemoblazeLoginDDT</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>362e501d-619c-4b4c-a0a9-c407bc59efb5</testSuiteGuid>
+   <testCaseLink>
+      <guid>2aa5a461-8f83-4f17-9494-dce434b26d28</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Demoblaze/E2TC2AutomatedLogin</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6b1e8136-1925-47ce-9a84-d52ae844b1ac</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DemoblazeLogin</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>6b1e8136-1925-47ce-9a84-d52ae844b1ac</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>12441d98-d952-4add-8542-7583063bf9a7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6b1e8136-1925-47ce-9a84-d52ae844b1ac</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>ace4e263-4c8f-46cd-a571-4938d7278a89</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

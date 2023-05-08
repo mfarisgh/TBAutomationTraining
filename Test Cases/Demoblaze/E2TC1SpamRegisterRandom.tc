@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E2TC1SpamRegisterRandom</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f218c61-d015-4f72-9025-21d23c7a5700</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>117a387e-c952-4b04-abe4-5fb06ac6301d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'GklqZBguAPQ='</defaultValue>
+      <description></description>
+      <id>117a387e-c952-4b04-abe4-5fb06ac6301d</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

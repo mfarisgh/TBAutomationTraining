@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Demoblaze</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>fe9c7b23-efea-48df-a955-f7c0764ea2a0</testSuiteGuid>
+   <testCaseLink>
+      <guid>800d93b6-c840-42d5-9a55-5e05aba79efa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Demoblaze/E2TC1SpamRegisterRandom</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>117a387e-c952-4b04-abe4-5fb06ac6301d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>44ec6202-2e13-468c-8518-ce3cd0a7e63e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Demoblaze/E2TC1SpamRegisterRandom</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>117a387e-c952-4b04-abe4-5fb06ac6301d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

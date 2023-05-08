@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ParameterizedObjDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ca6fc49-d401-4510-9491-4d0d924853c5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5987864-4c18-4768-b051-134d0b191734</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3613c9ca-afe6-47c6-aa46-48d9e07da330</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Medicaid'</defaultValue>
+      <description></description>
+      <id>a5987864-4c18-4768-b051-134d0b191734</id>
+      <masked>false</masked>
+      <name>program</name>
+   </variable>
+   <variable>
+      <defaultValue>'23/05/2023'</defaultValue>
+      <description></description>
+      <id>3613c9ca-afe6-47c6-aa46-48d9e07da330</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+</TestCaseEntity>
